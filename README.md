@@ -2,8 +2,6 @@
 
 A modern, real-time bookmark manager built with React, Supabase, and Tailwind CSS.
 
-![Vercel](https://vercelbadge.vercel.app/api/Venkatesh-vicky7/smart-bookmark-app)
-
 ## Live Demo
 
 **Vercel URL:** https://smart-bookmark-app-three-rust.vercel.app
